@@ -8,5 +8,6 @@ public class Main {
         System.out.println(" fassa " + (c * e) + " moy bly zarplata ");
         var TodayDoc = c*e;
         System.out.println( TodayDoc);
+        System.out.println( " :gj ");
     }
 }
