@@ -9,5 +9,6 @@ public class Main {
         var TodayDoc = c*e;
         System.out.println( TodayDoc);
         System.out.println(" Вот норм бабосы понял лашпето " + TodayDoc*1000);
+        System.out.println( " Спать пора..... ");
     }
 }
