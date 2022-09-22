@@ -10,5 +10,6 @@ public class Main {
         System.out.println( TodayDoc);
         System.out.println(" Вот норм бабосы понял лашпето " + TodayDoc*1000);
         System.out.println( " Спать пора..... ");
+        System.out.println(" финал ");
     }
 }
